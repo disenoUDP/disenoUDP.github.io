@@ -8,7 +8,7 @@ actualmente es administrada por le profesore [Aarón Montoya-Moraga](https://git
 
 ## repositorios de cursos
 
-- https://github.com/disenoUDP/dis9005-2023-1: DIS9005 Diseño Página Web, primer semestre 2023.
+- [https://github.com/disenoUDP/dis9005-2023-1](https://github.com/disenoUDP/dis9005-2023-1): DIS9005 Diseño Página Web, primer semestre 2023.
 
 ## licencia
 
